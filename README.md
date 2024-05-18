@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ivavasic
-- 👀 I’m interested in geometry processing and interactions
-- 🌱 I’m currently learning three.js for point cloud processing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 👀 I’m interested in geometry processing and interactions in virtual environments
+- 📫 You can reach me at www.linkedin.com/in/iva-vasic-104623135
+
 
 <!---
 ivavasic/ivavasic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
